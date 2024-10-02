@@ -3,3 +3,44 @@ td {
  padding: 10px;
  border: 1px solid #333;
 }
+
+/* selectors */
+/* li {
+    color: red;
+} */
+
+/* div ul  {
+    background-color: #6f0303;
+} */
+
+/* ul {
+    color: red;
+} */
+
+
+/* Properties/attributes */
+.fruit-list {
+    color: #fff;
+    background-color: cadetblue;
+    /* padding: 8px 12px 8px 12px; */
+    padding: 4px;
+    /* margin: 8px; */
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+#fruits {
+    background-color: coral;
+}
+
+
+
+
+
+
+
+
+
+
+
+

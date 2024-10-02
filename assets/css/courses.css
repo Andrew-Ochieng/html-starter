@@ -1,0 +1,74 @@
+/* Courses css file */
+/* @import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap'); */
+
+/* Courses Global Styling */
+body {
+    padding: 0;
+    margin: 0;
+    /* background-image: url('https://imgs.search.brave.com/Zov4iYZETZ97q-Bw9pg265mkBfrXfOeNaopjNZ5Iph0/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/cGhpbGFzZC5vcmcv/d3AtY29udGVudC91/cGxvYWRzLzIwMjMv/MTAvVGVhY2hpbmcx/MC0xLTEwMjR4Njgz/LmpwZw'); */
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+    font-family: 'Lato', sans-serif;
+}
+
+/* Navbar style */
+nav {
+    /* background-color: crimson; */
+    /* background-color: rgb(100, 30, 22); */
+    background-color: #C0392B;
+    
+}
+
+nav a {
+    color: white;
+    border-color: aqua;
+}
+
+/* Hero style */
+.hero {
+    color: white;
+    width: 20rem;
+    margin: 4rem;
+    background-color: rgb(67, 188, 204);
+    opacity: 0.5;
+    /* border: 4px solid ; */
+    /* border-color: blue; */
+    /* border-radius: 10px; */
+    border-left: 6px solid blue;
+}
+
+/* courses style */
+.courses {
+    text-align: center;
+    background-color: rgb(67, 188, 204);
+    width: 50%;
+    /* margin: 100px 0px; */
+    margin: 10px 0px 10px 20px;
+    /* padding: 10px 50px; */
+    padding: 10px 0px 10px 20px;
+}
+
+.courses p {
+    font-weight: 600;
+    font-size: 20px;
+    /* font-family: sans-serif; */
+}
+
+
+form #username {
+    outline: none;
+    /* border: none; */
+    border: 1px red solid;
+    margin: 4rem;
+    padding: 8px;
+    border-radius: 10px;
+}
+
+
+
+h1 {
+    color: white;
+    text-align: center;
+}
