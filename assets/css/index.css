@@ -1,0 +1,86 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Lato', sans-serif;
+}
+
+/* Icons styles */
+
+.fa-brands {
+    color: red;
+    font-size: 4rem;
+}
+
+.fa-solid {
+    color: gray;
+    font-size: 4rem;
+}
+
+
+/* Forms Style */
+nav {
+    background-color: brown;
+    padding: 2rem;
+    margin-bottom: 4rem;
+}
+
+nav a {
+    color: white; 
+    padding: 0 1rem;
+}
+
+
+/* Forms */
+.form-title {
+    text-align: center;
+    color: brown;
+}
+
+.label {
+    color: brown;
+    font-size: 18px;
+    font-weight: bold;
+    /* padding-bottom: 2rem; */
+    /* margin-bottom: 4px; */
+}
+
+/* br {
+    margin: 10px 0px;
+} */
+
+.form-input {
+    border: 1px solid brown ;
+    padding: 10px;
+    border-radius: 6px;
+    margin: 1rem 0rem;
+    outline: none;
+    min-width: 500px;
+}
+
+textarea {
+    border: 1px solid brown ;
+    padding: 10px;
+    border-radius: 6px;
+    margin: 1rem 0rem;
+    outline: none;
+    min-width: 500px;
+}
+
+button {
+    color: white;
+    background-color: brown;
+    border: none;
+    border-radius: 5px;
+    padding: 1rem 4rem;
+
+}
+
+
+
+
+
+
+
+
